@@ -141,13 +141,13 @@ carro.Cor;
 carro.mudarCor("vermelho");
 
 // E agora, qual a cor do carro?
-carro.cor;
+carro.Cor;
 
 // Mude a cor do carro para verde musgo.
 carro.mudarCor("Verde Musgo");
 
 // E agora, qual a cor do carro?
-carro.cor;
+carro.Cor;
 
 // Qual a marca e modelo do carro?
 carro.obterMarcaModelo();
