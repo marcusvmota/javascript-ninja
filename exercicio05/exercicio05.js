@@ -51,7 +51,8 @@ os livros.
 */
 function book (nomeLivro){
     var características = {
-        Livro1: { quantidadePaginas: 10, autor: "Vinicius", editora: "quadroa4"}
+        Livro1: { quantidadePaginas: 10, autor: "Vinicius", editora: "quadroa4"},
+        Livro2: {}
     }
 }
 
